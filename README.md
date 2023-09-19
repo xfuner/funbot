@@ -2,6 +2,9 @@
 Funbot is a AI bot customization and dialogue platform, users are able to create AI bots based on specific knowledge library, with certain system presets and human settings. By utilizing the capabilities of large language models, it achieves information retrieval, analysis, and logical reasoning. 
 ![image](https://github.com/xfuner/funbot/assets/145464942/4db019f4-bd08-41fd-9651-fb3d96f6a08c)
 
+# Demo URL
+https://funbot-stage.funplus.com/login?token=Ou4FkzHjfbvQUGJi
+
 # How to create a bot
 1. Click "+" icon and enter the creating page
 ![image](https://github.com/xfuner/funbot/assets/145464942/dae52cf4-0e16-4811-b5dd-0807d523213a)
